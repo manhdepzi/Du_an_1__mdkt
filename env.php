@@ -10,7 +10,7 @@ const PORT = "3306";
 const ROOT_DIR = __DIR__ . "/";
 
 //url
-const ROOT_URL = "http://localhost/Duan1-1/";
+const ROOT_URL = "http://localhost/Du_an_1__mdkt/";
 
 //đến admin
 const ADMIN_URL = ROOT_URL . "admin/";
