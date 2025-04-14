@@ -5,7 +5,7 @@ define('DB_PASS', '');
 define('DB_NAME', 'mdktshopping');
 define("ROOT_DIR", __DIR__ . "/../"); 
 define('PATH_ROOT', __DIR__ . '/');
-const ROOT_URL = "http://localhost/test9/user/";
+const ROOT_URL = "http://localhost/Du_an_1__mdkt/user/";
 
 try {
     $pdo = new PDO(

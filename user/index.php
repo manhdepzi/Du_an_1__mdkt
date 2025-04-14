@@ -35,6 +35,9 @@ match ($ctl) {
     'register'              => $authController->register(),
     'login'                 => $authController->login(),
     'logout'                => $authController->logout(),
+    'profile'               => $authController->profile(),
+    'edit-profile'          => $authController->editProfile(), 
+    'change-password'       => $authController->changePassword(),
 
     default                 => print "Hành động không hợp lệ."
 };
